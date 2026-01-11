@@ -1,0 +1,5 @@
+{
+  "name": "FocusChain Pomodoro",
+  "description": "An advanced Pomodoro timer featuring single tasks and sequential task chains, designed with a sleek macOS aesthetic and high-precision timing.",
+  "requestFramePermissions": []
+}
